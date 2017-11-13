@@ -5,6 +5,8 @@ public class HelloWorld {
 
         String pavadinimas = "UAB\t-tab-\\\\     \"Ragai ir kanopos\" \u265E";
         System.out.println(pavadinimas);
+
+        //TODO - cia bus kazkoks naujas kodas
     }
 
 }
