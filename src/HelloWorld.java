@@ -6,7 +6,7 @@ public class HelloWorld {
         String pavadinimas = "UAB\t-tab-\\\\     \"Ragai ir kanopos\" ∞";
         System.out.println(pavadinimas);
 
-        //TODO - cia bus kazkoks naujas kodas
+        //cia bus kazkoks naujas kodas - kol kas jo nera ir nereikia
     }
 
 }
